@@ -1,0 +1,1 @@
+csc /target:winexe Ideohazard.cs
